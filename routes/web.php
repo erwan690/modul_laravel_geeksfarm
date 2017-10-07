@@ -21,3 +21,5 @@ Route::resource('comments', 'CommentsController');
 Route::resource('articles', 'ArticleController');
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+//cekthisout
